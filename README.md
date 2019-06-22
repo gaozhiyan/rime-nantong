@@ -5,4 +5,7 @@
 请参阅南通方言网相关信息，了解本输入法的具体使用方法：<br>
 http://nantonghua.net/archives/7770 <br>
 
-现将本输入法开源在此，供广大网友使用、参考。
+现将本输入法开源在此，供广大网友使用、参考。<br>
+
+如何在PC，MacOS，iOS，Android，Linux 平台使用本输入法，请参见：<br>
+https://laubonghaudoi.github.io/dialects/install/selection.html
