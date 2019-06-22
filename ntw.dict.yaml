@@ -7,7 +7,7 @@ d# Rime dictionary
 name: ntw
 version: "2018.05.01"
 sort: by_weight
-use_preset_vocabulary: false
+use_preset_vocabulary: true
 max_phrase_length: 7
 min_phrase_weight: 100
 ...
