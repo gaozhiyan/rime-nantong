@@ -1,3 +1,23 @@
+<style type="text/css" rel="stylesheet">
+body {
+  font-family: Times New Roman;
+  font-size: 14px;
+  line-height: 1.6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  padding: 30px;
+  color: #333;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  cursor: text;
+  position: relative;
+}
+</style>
 # 南通话输入法（南通方言网版）
 本输入法由陈佳平制作<br>
 码表正字由敖小平博士考证，取自敖小平博士的南通话输入法码表<br>
