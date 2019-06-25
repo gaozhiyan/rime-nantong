@@ -18,7 +18,7 @@ https://laubonghaudoi.github.io/dialects/install/selection.html
 南通方言网定制输入法的拼音方案实际上是《汉语拼音方案》的方言版本，熟悉汉语拼音方案就能很快熟悉此方言拼音方案。跟市面上成熟的拼音输入法一样，我们的定制输入法凡是输入过的字词会有记忆功能，以后输入多音节词或短语时可以只输入音节首字母便可，非常省事。另外，我们还设置了一定的拼写容错功能，使得本输入法方案比较灵活、友好。例如：ji、seng、mi、zing、ling等错误拼法也能出字，阴入和阳入字吃不准，收尾的字母g或q弄混也不要紧。需要详细了解我们拼音方案的，建议查看完整方案，可在此处或到南通方言网在线浏览或下载。
 
 ### 声母：
-
+<span style="font-family:Times;">
 | 拼音 | 音标 | 例字 |
 | --- | --- | --- |
 | b | /p/ | bo巴ba摆 |
@@ -117,5 +117,5 @@ https://laubonghaudoi.github.io/dialects/install/selection.html
 | ieq | /jɜʔ/ | yeq日 |
 | ueq | /wɜʔ/ | hueg忽gueg骨 |
 | iueq | /ɥɜʔ/ | xueq术queg出 |
-
+</span>
 注：南通话入声韵分阴入和阳入，阴入为中调，以g表示，阳入为高调，以q表示。
