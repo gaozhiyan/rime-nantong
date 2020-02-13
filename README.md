@@ -6,7 +6,7 @@
 
 现将本输入法开源在此，供广大网友使用、参考。<br>
 
-如何在PC，MacOS，iOS，Android，Linux 平台使用本输入法，请参见：<br> <https://laubonghaudoi.github.io/dialects/install/selection.html>
+如何在PC，MacOS，iOS，Android，Linux 平台使用本输入法，请参见：<br> <https://hanhngiox.net/install/selection.html>
 
 南通话拼音
 ----------
